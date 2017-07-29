@@ -1,7 +1,7 @@
-#OMDCCT
+#ROMDCCT
 =============
 
-This is a BURST coin plotter that generates optimized plot files<br>
+This is a resumable BURST coin plotter that generates optimized plot files<br>
 without the need to run an optimizer after plotting.<br>
 
 This plotter ONLY works on Linux as it uses the fallocate() system<br>
